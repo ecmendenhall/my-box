@@ -56,6 +56,7 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+github "osx"
 github "skype"
 github "mongodb"
 github "vagrant"
